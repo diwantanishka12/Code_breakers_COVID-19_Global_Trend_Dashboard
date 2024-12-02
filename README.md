@@ -32,7 +32,7 @@ _**Tools and Libraries Used:**_
 
 _**Data Source(s):**_
 
-The project uses a dataset named "https://docs.owid.io/projects/covid/en/latest/dataset.html" sourced from Our World in Data.
+The project uses a dataset named "https://covid.ourworldindata.org/data/owid-covid-data.csv" sourced from Our World in Data.
 
 
 
