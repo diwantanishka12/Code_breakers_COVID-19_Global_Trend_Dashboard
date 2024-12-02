@@ -40,11 +40,15 @@ Place the dataset (owid-covid-data.csv) in the appropriate directory (e.g., /con
 
 Run the Notebook:
 Open the notebook in Google Colab or any Jupyter Notebook environment.
+
+
 Execute each cell sequentially to clean the data and generate visualizations.
 
 
 Visualize Trends:
 Use the interactive widget to select countries and view COVID-19 trends.
+
+
 Save plots for specific countries using the provided function.
 
 
@@ -62,5 +66,9 @@ Interactive tool for selecting countries to visualize their data dynamically.
 
 **Challenges Faced:**
 Handling missing data in the dataset.
+
+
 Formatting date columns for consistent analysis.
+
+
 Customizing plots for clearer and more informative visualizations.
