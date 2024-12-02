@@ -1,6 +1,6 @@
 _**Project Title:**_
 
-COVID-19 Data Analysis and Visualization
+COVID-19 Global Trend Dashboard
 
 
 
