@@ -1,5 +1,6 @@
-Project Title:
+**Project Title:**
 COVID-19 Data Analysis and Visualization
+
 Group Members:
 Diwan Tanishka (KU2407U061)
 Darshkumar Patel (KU2407U040)
